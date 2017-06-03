@@ -1,0 +1,2 @@
+version=0.3Beta
+location=C://Users/Arthur/Desktop

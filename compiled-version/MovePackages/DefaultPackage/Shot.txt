@@ -1,0 +1,4 @@
+title=Shot
+description=Is started from the neutral position[n]A shot is a basic wrestling move that can be followed by different types of breakdowns and pining comunations
+link=http://www.youtube.com/watch?v=X3xKwQcDKM0
+date=7/15/2014

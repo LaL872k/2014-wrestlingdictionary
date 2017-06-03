@@ -1,0 +1,4 @@
+title=Sweep single leg takedown
+description=Starts from the neutral position and ends in stomach to mat[n]Very effective if done fast!
+link=http://www.youtube.com/watch?v=1Vyuf2Ji3ZM
+date=7/15/2014
